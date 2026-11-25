@@ -1,0 +1,10 @@
+{
+  "description": "AlphaTV 01 动态图标",
+  "icons": [
+    {
+      "name": "AlphaTV 01 动态",
+      "url": "https://raw.githubusercontent.com/ldyldy116/emby-/main/AlphaTV01-v15.gif"
+    }
+  ],
+  "name": "AlphaTV 01 图标库"
+}
