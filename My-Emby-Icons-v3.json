@@ -24,6 +24,10 @@
     {
       "name": "猫窝动态",
       "url": "https://raw.githubusercontent.com/ldyldy116/emby-/main/Maowo-v13.gif"
+    },
+    {
+      "name": "牛逼动态",
+      "url": "https://raw.githubusercontent.com/ldyldy116/emby-/main/Niubi-v3.gif"
     }
   ],
   "name": "我的 Emby 图标库"
